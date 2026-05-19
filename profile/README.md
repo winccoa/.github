@@ -2,7 +2,7 @@
 
 Welcome to the **WinCC OA Hub** – a public repository that provides practical tools, helpers, and ready-to-use examples to make development with **SIMATIC WinCC OA** easier, faster, and more effective.
 
----
+---  
 
 ## 🔍 Why we do this
 
@@ -69,8 +69,8 @@ Additionally, each official example will include:
 | WinCC OA MTP Library + Importer          | ![CTRL](https://img.shields.io/badge/-CTRL-0aa) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-ctrl-mtpimporter) | [SIOS - Link](https://support.industry.siemens.com/cs/document/109995629/wincc-oa-mtp-importer) |
 | WinCC OA IT/OT Layer                     | ![CTRL](https://img.shields.io/badge/-CTRL-0aa) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-ctrl-itotlayer) | [SIOS - Link](https://support.industry.siemens.com/cs/document/109995652/wincc-oa-it-ot-layer) |
 | WinCC OA Teams Integration               | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-js-teamsintegration) | [SIOS - Link](https://support.industry.siemens.com/cs/document/110002216/wincc-oa-microsoft-teams-integration) |
+| WinCC OA GraphQL & REST API Server       | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-js-graphql-rest-api) | [SIOS - Link](https://support.industry.siemens.com/cs/document/110002602) |
 | WinCC OA HTTP Publisher                  | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
-| WinCC OA GraphQL & REST API Server       | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
 | WinCC OA Benchmark and Systemperformance | ![General](https://img.shields.io/badge/-General-grey)                         | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
 | WinCC OA Text2Speech | ![TS](https://img.shields.io/badge/-TS-f7df1e?logo=typescript&logoColor=black) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-ts-text2speech) | [SIOS - Link](https://support.industry.siemens.com/cs/document/110000671/wincc-oa-text-to-speech-application-example) |
 | WinCC OA Web Components Dashboard Widget | ![TS](https://img.shields.io/badge/-TS-f7df1e?logo=typescript&logoColor=black) | ![planned](https://img.shields.io/badge/status-planned-orange)    | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
